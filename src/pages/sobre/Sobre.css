@@ -1,0 +1,31 @@
+.image-top{
+    background-image: url('https://i.imgur.com/pHTjmTm.jpeg');
+    background-color: white;    
+    background-size: cover;
+    background-position: center;
+    height: 85vh;    
+    margin-top: 1rem;
+}
+
+.txtH1{
+    font-weight: 500;
+    font-style: normal;
+    color: white;
+    width: 556px;
+    height: 165px;
+    margin: 2rem 0;
+    margin-left: 1rem;
+}
+
+.titulo{
+    margin: 2rem 0;
+    color: black;
+    font-size: calc((2.8 - 1) * 1.2vw + 1rem);
+    line-height: 1.2992;    
+}
+
+.about{
+    height: 420px;
+    width: 260px;
+    padding-right: 1rem;
+}

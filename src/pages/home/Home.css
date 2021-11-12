@@ -1,0 +1,57 @@
+.titulo{
+  color: aqua;
+  text-align: center;
+  }
+  
+  .imagens {
+  
+      width: 500px;
+      height: 500px;
+      display: block;
+     
+  }
+  
+  
+  /*Esta afetando a página de cadastro
+   .paperhome{ background-color: #8D9CA6;  }*/
+  
+  
+ 
+  .titulo1{
+    font-family: "azo-sans-web",sans-serif;
+    display: flex;
+    font-size: large;
+    color: #ffff;
+    font-weight: 900;
+    text-align: center;
+    align-items: center;
+    padding: 20px;
+  }
+
+.container{
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: #0000;
+  margin-top: 0px !important;
+}
+.font{
+    color: #ffff;
+    font-weight: 900;
+    font-family: "azo-sans-web",sans-serif;
+}
+
+.cor{
+
+  background-color: #030303;
+}
+
+.image{
+  background-image: url("https://images.unsplash.com/photo-1534616042650-80f5c9b61f09?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=724&q=80") !important;
+
+  background-size: cover!important;
+  width: 100% !important;
+  height: max-content !important;
+}

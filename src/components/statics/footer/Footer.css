@@ -1,0 +1,40 @@
+.footer {
+  height: 150px;  
+  background-image: url('https://i.imgur.com/WdxT9lK.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #8ACFF5;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));  
+}
+
+.boxInvisivel {
+  width: 315px;
+}
+
+.box1{
+    margin: 11px;
+}
+
+.textsOnu{
+    margin-left: 13px;
+}
+
+.logoOnu{
+    width: 100px;
+    height: 100px;
+}
+
+.txtOnu {
+  font-family: Yaldevi Colombo Light;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 27px;
+  line-height: 36px;
+  color: #02032c;
+}
+
+.textYpora{
+    font-family: Yaldevi Colombo Light;
+    color: white;
+}

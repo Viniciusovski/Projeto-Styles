@@ -1,0 +1,21 @@
+.titulo {
+    text-align: center;
+}
+
+.colorAppBar {
+    background-color: #8ACFF5!important;
+}
+
+.colorText {
+    color: white !important;
+}
+
+.text-decorator-none {
+    text-decoration: none;
+}
+
+.logo {
+    width: 40px;
+    height: 40px;
+    padding-top: 3px;
+}

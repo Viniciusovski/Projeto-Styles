@@ -1,0 +1,11 @@
+.topo{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    border: black solid 1px;
+    padding: 20px;
+    border-radius: 50px 20px;    
+}
+
+.topo .typ-form{
+    font-family: 'Brush Script MT', cursive;
+}
